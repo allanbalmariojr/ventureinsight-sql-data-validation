@@ -44,15 +44,15 @@ ventureinsight-sql-data-validation/
 │ └── query_explanations.md
 |
 ├── sql/
-│ └── api_requirements_breakdown.md
-│ └── api_requirements_breakdown.md
-│ └── api_requirements_breakdown.md
-│ └── api_requirements_breakdown.md
-│ └── api_requirements_breakdown.md
-│ └── api_requirements_breakdown.md
-│ └── api_requirements_breakdown.md
-│ └── api_requirements_breakdown.md
-│ └── api_requirements_breakdown.md
+│ └── task_01_closed_startups.sql
+│ └── task_02_us_news_funding_analysis.sql
+│ └── task_03_cash_acquisitions_2011_2013.sql
+│ └── task_04_silver_twitter_influencers.sql
+│ └── task_05_finance_influencers_k_lastname.sql
+│ └── task_06_geographic_investment_analysis.sql
+│ └── task_07_funding_round_volatility_analysis.sql
+│ └── task_08_fund_activity_classification.sql
+│ └── task_09_fund_activity_investment_strategy.sql
 |
 └── README.md
 ```
