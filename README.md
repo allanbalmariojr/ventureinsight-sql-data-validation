@@ -37,6 +37,12 @@ The database consists of the following key tables:
 ```text
 ventureinsight-sql-data-validation/
 │
+├── docs/
+│ └── er_diagram.png
+|
+├── notes/
+│ └── query_explanations.md
+|
 ├── sql/
 │ └── api_requirements_breakdown.md
 │ └── api_requirements_breakdown.md
@@ -47,12 +53,6 @@ ventureinsight-sql-data-validation/
 │ └── api_requirements_breakdown.md
 │ └── api_requirements_breakdown.md
 │ └── api_requirements_breakdown.md
-│
-├── docs/
-│ └── er_diagram.png
-|
-├── notes/
-│ └── query_explanations.md
 |
 └── README.md
 ```
