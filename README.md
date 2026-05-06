@@ -35,9 +35,25 @@ The database consists of the following key tables:
 ## 📁 Project Structure
 ventureinsight-sql-data-validation/
 │
-├── sql/ # SQL queries for each validation task
-├── docs/ # ER diagram and database schema reference
-└── README.md # Project documentation
+├── sql/
+│ └── api_requirements_breakdown.md
+│ └── api_requirements_breakdown.md
+│ └── api_requirements_breakdown.md
+│ └── api_requirements_breakdown.md
+│ └── api_requirements_breakdown.md
+│ └── api_requirements_breakdown.md
+│ └── api_requirements_breakdown.md
+│ └── api_requirements_breakdown.md
+│ └── api_requirements_breakdown.md
+│
+├── docs/
+│ └── er_diagram.png
+|
+├── notes/
+│ └── query_explanations.md
+|
+└── README.md
+
 
 ---
 
