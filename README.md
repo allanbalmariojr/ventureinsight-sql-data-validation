@@ -22,13 +22,13 @@ The goals of this project were to:
 
 The database consists of the following key tables:
 
-- company – startup information including funding, category, status, and country
-- fund – venture capital fund profiles and activity levels
-- funding_round – records of investment rounds
-- investment – relationships between funds and companies
-- acquisition – company acquisition transactions
-- people – founders, investors, and employees
-- education – educational backgrounds of individuals
+- `company` – startup information including funding, category, status, and country
+- `fund` – venture capital fund profiles and activity levels
+- `funding_round` – records of investment rounds
+- `investment` – relationships between funds and companies
+- `acquisition` – company acquisition transactions
+- `people` – founders, investors, and employees
+- `education` – educational backgrounds of individuals
 
 ---
 
