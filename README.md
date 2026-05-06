@@ -10,11 +10,11 @@ The objective was to ensure that data stored in the database accurately reflects
 
 The goals of this project were to:
 
-Validate correctness of data stored in relational tables
-Ensure consistency between application updates and database records
-Analyze funding, investment, and acquisition patterns using SQL
-Verify business rules through structured queries and aggregation logic
-Identify anomalies or inconsistencies in financial and startup data
+- Validate correctness of data stored in relational tables
+- Ensure consistency between application updates and database records
+- Analyze funding, investment, and acquisition patterns using SQL
+- Verify business rules through structured queries and aggregation logic
+- Identify anomalies or inconsistencies in financial and startup data
 
 ---
 
@@ -22,13 +22,13 @@ Identify anomalies or inconsistencies in financial and startup data
 
 The database consists of the following key tables:
 
-company – startup company information (funding, status, category, country)
-fund – venture capital fund details and activity levels
-funding_round – investment round data
-investment – fund-to-company investment relationships
-acquisition – company acquisition records
-people – founders, investors, employees
-education – educational background data
+- company – startup company information (funding, status, category, country)
+- fund – venture capital fund details and activity levels
+- funding_round – investment round data
+- investment – fund-to-company investment relationships
+- acquisition – company acquisition records
+- people – founders, investors, employees
+- education – educational background data
 
 ---
 
