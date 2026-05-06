@@ -34,6 +34,7 @@ The database consists of the following key tables:
 
 ## 📁 Project Structure
 
+```text
 ventureinsight-sql-data-validation/
 │
 ├── sql/
@@ -54,7 +55,7 @@ ventureinsight-sql-data-validation/
 │ └── query_explanations.md
 |
 └── README.md
-
+```
 
 ---
 
