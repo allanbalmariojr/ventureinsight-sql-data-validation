@@ -32,6 +32,15 @@ The database consists of the following key tables:
 
 ---
 
+## 📁 Project Structure
+ventureinsight-sql-data-validation/
+│
+├── sql/ # SQL queries for each validation task
+├── docs/ # ER diagram and database schema reference
+└── README.md # Project documentation
+
+---
+
 ## 🧪 SQL Test Coverage
 ### 📌 1. Startup Status Validation
 
