@@ -33,6 +33,7 @@ The database consists of the following key tables:
 ---
 
 ## 📁 Project Structure
+
 ventureinsight-sql-data-validation/
 │
 ├── sql/
