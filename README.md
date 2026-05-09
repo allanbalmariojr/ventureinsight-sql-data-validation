@@ -110,7 +110,7 @@ Used CASE statements to classify funds by activity level and analyzed investment
 --- 
 
 ## 🛠 Tools Used
-- SQL (PostgreSQL-style syntax)
+- SQL 
 - Relational database schema (ER diagram analysis)
 
 ---
